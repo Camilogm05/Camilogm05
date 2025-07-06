@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there! I'm Juan Gonzalez
 
-<!--
-**Camilogm05/Camilogm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast and passionate about software development, problem-solving, and continuous learning.  
+I enjoy working on real-world projects and collaborating in dynamic and growth-oriented environments.
 
-Here are some ideas to get you started:
+## 📚 Currently Studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying **Software Development**, strengthening my knowledge in backend and frontend technologies, databases, and best practices in programming.
+
+## 🛠️ Technologies & Tools
+
+- 💻 Languages: Python, JavaScript, Java  
+- 🌐 Frontend: HTML, CSS  
+- 🛢️ Databases: MySQL, PostgreSQL, MongoDB  
+- 🖥️ Operating Systems: Linux, Windows  
+- 🔧 Tools: Git, GitHub, Terminal, IDEs (VS Code, IntelliJ), Command Line
+
+## 📂 Some of my projects are on my GitHub profile
+
+## 📫 How to Reach Me
+
+- 📧 Email: camigonza.41@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/juan-c-gonzalez-4b180515b](https://www.linkedin.com/in/juan-c-gonzalez-4b180515b)
+
+## 👀 I'm Open to Work
+
+I'm currently open to **job opportunities** in software development or IT-related roles, where I can continue growing professionally and contribute with my skills.  
+I'm available for **remote, hybrid, or on-site positions**, and always eager to learn and take on new challenges.
+
+---
+
+Thanks for visiting my profile! 😊
